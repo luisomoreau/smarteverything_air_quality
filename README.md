@@ -1,7 +1,7 @@
 #Sigfox air quality meter
 
 
-Using the [SmartEverything](http://smarteverything.it) Arduino board and its SIGFOX-ready [Telit](http://www.telit.com/products/product-service-selector/product-service-selector/show/product/le51-868-s/) module, send the analog value in a message every 10 minutes over the [SIGFOX](http://makers.sigfox.com) network.
+Using the [SmartEverything](http://smarteverything.it) Arduino board and its SIGFOX-ready [Telit](http://www.telit.com/products/product-service-selector/product-service-selector/show/product/le51-868-s/) module, send the analog value of the MQ135 gas sensor in a message every 10 minutes over the [SIGFOX](http://makers.sigfox.com) network.
 
 ##Prerequisites
 ###SmartEverything
