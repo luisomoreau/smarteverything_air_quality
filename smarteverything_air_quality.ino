@@ -4,7 +4,7 @@
 //
 // Created: 08.09.2016
 // Author: Louis Moreau
-// Code: https://github.com/luisomoreau
+// Code: https://github.com/luisomoreau/smarteverything_air_quality
 // ---------------------------------------------------------------------
 
 // ---------------------------------------------------------------------
